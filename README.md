@@ -5,7 +5,7 @@
 - 🎀 Pronouns: She/Her/Hers.
 - 💻 I love Full-Stack developing. I am currently proficient in JavaScript, React.js, Express.js, Node.js, and PostgreSQL.
 - 🌱 I am currently learning AWS and Jenkins.
-- 🐻 I am a UCLA alumnna - Go Bruins!!
+- 🐻 I am a UCLA alumna - Go Bruins!!
 - 🎉 I love cats, running, and sparkling water.
 - 🤙 More about me: 
 [![Linkedin](https://img.shields.io/badge/-Aimee_Pham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aimee-pham/)
