@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Aimee Pham 💗</h1>
+<h1 align="center">Hi there, I am Aimee Pham 🙋🏻‍♀️</h1>
 
 <h1>About me 👩🏻‍💻</h1>
 
@@ -8,6 +8,6 @@
 - 🐻 I am a UCLA alumnna - Go Bruins!!
 - 🎉 I love cats, running, and sparkling water.
 - 🤙 More about me: 
-[![Linkedin](https://img.shields.io/badge/-Mei_Sun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aimee-pham/)
+[![Linkedin](https://img.shields.io/badge/-Aimee_Pham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aimee-pham/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:aimee.pham14@gmail.com)
 
